@@ -31,6 +31,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/atbsch21/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8
 #EXTINF:-1 tvg-logo="#g", ======INTERNATIONAL======
 https://livetv-fa.tubi.video/wsb2/playlist.m3u8
+#EXTINF:-1,Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WSBDT1.us",ABC 2 Atlanta GA (WSB-TV) (720p)
 https://livetv-fa.tubi.video/wsb2/playlist.m3u8
 #EXTINF:-1 tvg-id="WMARDT1.us",ABC 2 Baltimore MD (WMAR) (720p)
